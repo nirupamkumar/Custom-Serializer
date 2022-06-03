@@ -1,2 +1,2 @@
 # Custom-Serializer
- ## Use Case: Custom serializer implementation in Unity based chat system (Serialize all messages between client and server with code generation)
+ ## Why Custom serializer? - Optimzation purpose (less file size and Serializing all messages between client and server with code generation ).
